@@ -1,7 +1,7 @@
 # Castynet Studios
 
-Quick start react project
+Quick start for react projects
 
 ## see our work at [Castynet Studios](www.castynet.africa)
 
-![](./src/static/castynet.png =100x20)
+![Castynet Studios](src\static\castynet.png)
